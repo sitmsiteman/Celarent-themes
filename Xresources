@@ -1,0 +1,39 @@
+! Celarent themes
+! You can swap foreground and background color to make this dark/light mode.
+
+! special
+*background: #f7f7f7
+*foreground: #111111
+*cursorColor: #111111
+
+! black
+*color0: #2e2e2e
+*color8: #6e6e6e
+
+! red
+*color1: #7e1d1e
+*color9: #b84a4a
+
+! green
+*color2: #2d5c3f
+*color10: #5b9f76
+
+! yellow
+*color3: #8a6a00
+*color11: #b79400
+
+! blue
+*color4: #2a537d
+*color12: #4f79ad
+
+! magenta
+*color5: #6b3972
+*color13: #9c5ca0
+
+! cyan
+*color6: #2a6d6d
+*color14: #59a4a4
+
+! white
+*color7: #4e4e4e
+*color15: #8a8a8a
