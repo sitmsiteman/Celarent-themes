@@ -1,0 +1,38 @@
+! Celarent Dark Theme
+! Dark background with high contrast for readability
+
+*background: #111111
+*foreground: #f7f7f7
+*cursorColor: #f7f7f7
+
+! black
+*color0: #2e2e2e
+*color8: #6e6e6e
+
+! red
+*color1: #b84a4a
+*color9: #e06c75
+
+! green
+*color2: #5b9f76
+*color10: #98c379
+
+! yellow
+*color3: #b79400
+*color11: #e5c07b
+
+! blue
+*color4: #4f79ad
+*color12: #61afef
+
+! magenta
+*color5: #9c5ca0
+*color13: #c678dd
+
+! cyan
+*color6: #59a4a4
+*color14: #56b6c2
+
+! white
+*color7: #d0d0d0
+*color15: #ffffff
