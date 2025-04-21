@@ -1,8 +1,46 @@
-! Celarent themes
-! You can swap foreground and background color to make this dark/light mode.
+! Celarent Dark Theme
+! Dark background with high contrast for readability
 
-! special
-*background: #f7f7f7
+*background: #111111
+*foreground: #f7f7f7
+*cursorColor: #f7f7f7
+
+! black
+*color0: #2e2e2e
+*color8: #6e6e6e
+
+! red
+*color1: #b84a4a
+*color9: #e06c75
+
+! green
+*color2: #5b9f76
+*color10: #98c379
+
+! yellow
+*color3: #b79400
+*color11: #e5c07b
+
+! blue
+*color4: #4f79ad
+*color12: #61afef
+
+! magenta
+*color5: #9c5ca0
+*color13: #c678dd
+
+! cyan
+*color6: #59a4a4
+*color14: #56b6c2
+
+! white
+*color7: #d0d0d0
+*color15: #ffffff
+
+! Celarent Light Theme
+! Light background with high contrast for readability
+
+*background: #ffffff
 *foreground: #111111
 *cursorColor: #111111
 
@@ -11,29 +49,29 @@
 *color8: #6e6e6e
 
 ! red
-*color1: #7e1d1e
-*color9: #b84a4a
+*color1: #b84a4a
+*color9: #e06c75
 
 ! green
-*color2: #2d5c3f
-*color10: #5b9f76
+*color2: #5b9f76
+*color10: #98c379
 
 ! yellow
-*color3: #8a6a00
-*color11: #b79400
+*color3: #b79400
+*color11: #e5c07b
 
 ! blue
-*color4: #2a537d
-*color12: #4f79ad
+*color4: #4f79ad
+*color12: #61afef
 
 ! magenta
-*color5: #6b3972
-*color13: #9c5ca0
+*color5: #9c5ca0
+*color13: #c678dd
 
 ! cyan
-*color6: #2a6d6d
-*color14: #59a4a4
+*color6: #59a4a4
+*color14: #56b6c2
 
 ! white
-*color7: #4e4e4e
-*color15: #8a8a8a
+*color7: #d0d0d0
+*color15: #ffffff
